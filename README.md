@@ -1,2 +1,2 @@
-# http://barbaloira.com
+# http://barbaloira.github.io
 Programador Barba Loira
